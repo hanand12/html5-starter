@@ -6,7 +6,7 @@ A simple startup template for HTML5 projects
 ### Includes
 * [jQuery](http://jquery.com)
 * [GSAP](http://www.greensock.com/gsap-js/)
-* [LESS](http://lesscss.org)
+* [LESS](http://lesscss.org)  (needs to be compiled - you could use [this app](http://incident57.com/less/))
 	* [LESS Hat](http://lesshat.com/)
 * [Foundation Grid](http://foundation.zurb.com/docs/components/grid.html)
 
